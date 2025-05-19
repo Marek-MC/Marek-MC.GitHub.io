@@ -1,6 +1,6 @@
 title: cvless
 description: Jekyll theme for a beautiful online CV
-baseurl: "/Marek-MC.github.io"
+baseurl: ""
 url: git@github.com:Marek-MC/Marek-MC.github.io
 
 theme: cvless
