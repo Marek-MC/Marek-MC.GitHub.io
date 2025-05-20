@@ -3,7 +3,4 @@ Complete your experience section
 
 Complete your education section
 
-
-
-
-Change home links to point to the website instead of local host. 
+Fix all hard links in Index and CV
