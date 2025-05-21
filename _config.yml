@@ -1,6 +1,6 @@
 title: Marek-MC.github.io
 description: Mareks beautiful website. 
-baseurl: "/Marek-MC.github.io"
+baseurl: ""
 url: "https://Marek-MC.github.io"
 
 theme: cvless
