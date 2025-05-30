@@ -13,9 +13,6 @@
 <lastmod>2022-09-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/hidden/cv/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/posts/</loc>
 </url>
 <url>
@@ -28,6 +25,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-<lastmod>2025-05-21T02:08:27-05:00</lastmod>
+<lastmod>2025-05-21T03:11:02-05:00</lastmod>
 </url>
 </urlset>

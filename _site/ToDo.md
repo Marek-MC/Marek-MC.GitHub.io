@@ -3,4 +3,8 @@ Complete your experience section
 
 Complete your education section
 
-Fix locahost:4000 issue
+
+
+Fix href on deployment issues
+
+Fix deployed custom CSS not showing 
